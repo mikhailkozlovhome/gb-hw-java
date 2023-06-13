@@ -1,3 +1,5 @@
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.Scanner;
 
 public class App {
@@ -21,13 +23,13 @@ public class App {
          * task5();
          */
 
-        System.out.println("TASK 8");
-        task8();
-
-        /**
-         * System.out.println("TASK 9");
-         * task9();
+        /*
+         * System.out.println("TASK 8");
+         * task8();
          */
+
+        System.out.println("TASK 9");
+        task9();
 
     }
 
@@ -39,6 +41,19 @@ public class App {
          * Paul Green 25
          * Mike Black 23
          */
+        try (FileWriter fw = new FileWriter("file.txt", false)) {
+            fw.write("Name Surname Age");
+            fw.append("\n");
+            fw.append("Kate Smith 20");
+            fw.append("\n");
+            fw.write("Paul Green 25");
+            fw.append("\n");
+            fw.write("Mike Black 23");
+            fw.flush();
+        } catch (IOException ex) {
+            System.out.println(ex.getMessage());
+        }
+
     }
 
     private static void task8() {
@@ -69,7 +84,7 @@ public class App {
             System.out.printf("%d\t", itemArr);
         }
         System.out.println();
-       
+
         System.out.printf("Index is: %d, element is: %d", i, arr[i]);
 
     }
