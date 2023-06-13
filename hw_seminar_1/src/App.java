@@ -5,28 +5,23 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) throws Exception {
 
-        /*
-         * System.out.println("TASK 1");
-         * task1();
-         * 
-         * System.out.println("TASK 2");
-         * task2();
-         * 
-         * System.out.println("TASK 3");
-         * task3();
-         * 
-         * System.out.println("TASK 4");
-         * task4();
-         * 
-         * 
-         * System.out.println("TASK 5");
-         * task5();
-         */
+        System.out.println("TASK 1");
+        task1();
 
-        /*
-         * System.out.println("TASK 8");
-         * task8();
-         */
+        System.out.println("TASK 2");
+        task2();
+
+        System.out.println("TASK 3");
+        task3();
+
+        /*System.out.println("TASK 4");
+        task4();*/
+
+        System.out.println("TASK 5");
+        task5();
+
+        System.out.println("TASK 8");
+        task8();
 
         System.out.println("TASK 9");
         task9();
