@@ -1,0 +1,52 @@
+июн. 16, 2023 6:09:58 PM Task2 execute
+INFO: Original array:
+июн. 16, 2023 6:09:58 PM Task2 execute
+INFO: [1, 3, 5, 2, 8, 4, 7, 20, 11]
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: меняем местами 2-й и 3-й элементы
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: меняем местами 4-й и 5-й элементы
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: меняем местами 5-й и 6-й элементы
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: меняем местами 7-й и 8-й элементы
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: Массив после 1-й итерации
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: [1, 3, 2, 5, 4, 7, 8, 11, 20]
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: меняем местами 1-й и 2-й элементы
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: меняем местами 3-й и 4-й элементы
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: Массив после 2-й итерации
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: [1, 2, 3, 4, 5, 7, 8, 11, 20]
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: Массив после 3-й итерации
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: [1, 2, 3, 4, 5, 7, 8, 11, 20]
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: Массив после 4-й итерации
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: [1, 2, 3, 4, 5, 7, 8, 11, 20]
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: Массив после 5-й итерации
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: [1, 2, 3, 4, 5, 7, 8, 11, 20]
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: Массив после 6-й итерации
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: [1, 2, 3, 4, 5, 7, 8, 11, 20]
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: Массив после 7-й итерации
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: [1, 2, 3, 4, 5, 7, 8, 11, 20]
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: Массив после 8-й итерации
+июн. 16, 2023 6:09:58 PM Task2 bubbleSort
+INFO: [1, 2, 3, 4, 5, 7, 8, 11, 20]
+июн. 16, 2023 6:09:58 PM Task2 execute
+INFO: Sorted array:
+июн. 16, 2023 6:09:58 PM Task2 execute
+INFO: [1, 2, 3, 4, 5, 7, 8, 11, 20]
